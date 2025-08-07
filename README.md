@@ -9,7 +9,7 @@
 ### การดาวน์โหลดเกม
 
 คลิกที่ลิงก์ด้านล่างเพื่อดาวน์โหลดเกม Bunny Simple Game:
-[ดาวน์โหลดเกม Bunny Simple Game](https://drive.google.com/drive/folders/1SAw1d5d29DANKv-27__JgZ_QD-wFvN9Y?usp=sharing)
+[ดาวน์โหลดเกม Bunny Simple Game](https://drive.google.com/file/d/1RVZg-cbzxXdFaH1DDZUVy-17HGG2rqeu/view?usp=sharing)
 
 ### การติดตั้ง
 1. ดาวน์โหลดไฟล์เกมจากลิงก์ข้างต้น
